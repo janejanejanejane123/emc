@@ -1,0 +1,21 @@
+
+server:
+  port: 8401
+spring:
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+feign:
+  okhttp:
+    enabled: true
+  client:
+    config:
+      default:
+        connectTimeout: 50000
+        readTimeout: 50000
+        loggerLevel: basic
