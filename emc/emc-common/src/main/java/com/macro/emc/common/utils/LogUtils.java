@@ -3,7 +3,7 @@ package com.macro.emc.common.utils;
 /**
  * 处理并记录日志文件
  *
- * @author ruoyi
+ * @author jane
  */
 public class LogUtils
 {

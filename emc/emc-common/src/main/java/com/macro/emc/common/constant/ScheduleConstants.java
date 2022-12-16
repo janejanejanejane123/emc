@@ -3,7 +3,7 @@ package com.macro.emc.common.constant;
 /**
  * 任务调度通用常量
  *
- * @author ruoyi
+ * @author jane
  */
 public class ScheduleConstants
 {

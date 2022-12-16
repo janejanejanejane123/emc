@@ -3,7 +3,7 @@ package com.macro.emc.common.constant;
 /**
  * 代码生成通用常量
  *
- * @author ruoyi
+ * @author jane
  */
 public class GenConstants
 {

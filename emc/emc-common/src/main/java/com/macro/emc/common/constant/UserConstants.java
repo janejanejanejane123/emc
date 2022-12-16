@@ -3,7 +3,7 @@ package com.macro.emc.common.constant;
 /**
  * 用户常量信息
  *
- * @author ruoyi
+ * @author jane
  */
 public class UserConstants
 {

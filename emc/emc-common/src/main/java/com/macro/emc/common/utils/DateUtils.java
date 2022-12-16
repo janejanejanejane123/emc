@@ -13,7 +13,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * 时间工具类
  *
- * @author ruoyi
+ * @author jane
  */
 @Slf4j
 public class DateUtils extends org.apache.commons.lang3.time.DateUtils

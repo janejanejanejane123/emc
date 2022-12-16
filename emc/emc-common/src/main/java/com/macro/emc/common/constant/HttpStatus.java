@@ -3,7 +3,7 @@ package com.macro.emc.common.constant;
 /**
  * 返回状态码
  *
- * @author ruoyi
+ * @author jane
  */
 public class HttpStatus
 {

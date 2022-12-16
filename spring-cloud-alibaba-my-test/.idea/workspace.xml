@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="740e3cc9-253d-4779-af32-24cc84544238" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" url="file://$USER_HOME$/sdk/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="true" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2ItP6cAgSI1WP4OpHqSFPqkbfNz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.format.on.save.advertiser.fired": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "last_opened_file_path": "/Users/admin/project/spring-cloud-alibaba-my-test",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "spring.configuration.checksum": "2b0bfff72211b35e960a723cc75131e6"
+  }
+}]]></component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MallMonitorApplication">
+    <configuration name="MallAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.macro.mall.MallAdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallAuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-auth" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.macro.mall.auth.MallAuthApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.macro.mall.MallDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.macro.mall.MallGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallMonitorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-monitor" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.macro.mall.MallMonitorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallPortalApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-portal" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.macro.mall.portal.MallPortalApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallSearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-search" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.macro.mall.search.MallSearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="740e3cc9-253d-4779-af32-24cc84544238" name="Changes" comment="" />
+      <created>1670997731207</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670997731207</updated>
+      <workItem from="1670997733029" duration="919000" />
+      <workItem from="1671004009002" duration="3429000" />
+      <workItem from="1671017210338" duration="3326000" />
+      <workItem from="1671031796128" duration="15312000" />
+      <workItem from="1671108927845" duration="1533000" />
+      <workItem from="1671136257066" duration="1933000" />
+      <workItem from="1671174225651" duration="2000" />
+      <workItem from="1671174372404" duration="1302000" />
+      <workItem from="1671176296603" duration="1506000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>false</integration-enabled>
+    <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
