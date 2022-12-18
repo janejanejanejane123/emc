@@ -23,4 +23,7 @@ public interface UmsMemberMapper extends BaseMapper<UmsMember> {
     int updateByPrimaryKeySelective(UmsMember record);
 
     int updateByPrimaryKey(UmsMember record);
+
+    int save(UmsMember umsMember2);
+    int saveDuplicate(UmsMember umsMember2);
 }

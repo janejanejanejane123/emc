@@ -1,4 +1,4 @@
-//package com.macro.emc.portal.domain;
+package com.macro.emc.portal.domain;//package com.macro.emc.portal.domain;
 //
 //import com.macro.emc.model.UmsMember;
 //import org.springframework.security.core.GrantedAuthority;

@@ -6,6 +6,7 @@ import com.macro.emc.portal.repository.MemberReadHistoryRepository;
 import com.mongodb.DuplicateKeyException;
 import com.mongodb.client.MongoCollection;
 import com.mongodb.client.model.UpdateOptions;
+import com.mongodb.client.result.UpdateResult;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -64,7 +65,8 @@ public class MongodbApplicationTests {
             declaredField.setAccessible(false);
         }
         //插入对应集合
-        mongoTemplate.upsert(query, update, MemberReadHistory.class);
+        UpdateResult upsert = mongoTemplate.upsert(query, update, MemberReadHistory.class);
+        System.out.println(upsert);
     }
 
     public void copyMemberReadHistoryToMongodbThreadPool() {

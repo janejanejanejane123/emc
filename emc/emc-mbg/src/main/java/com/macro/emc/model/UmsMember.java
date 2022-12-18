@@ -1,9 +1,16 @@
 package com.macro.emc.model;
 
 import io.swagger.annotations.ApiModelProperty;
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+
 import java.io.Serializable;
 import java.util.Date;
-
+@NoArgsConstructor
+@AllArgsConstructor
+@Data
 public class UmsMember implements Serializable {
     private Long id;
 
@@ -61,6 +68,11 @@ public class UmsMember implements Serializable {
     private Integer historyIntegration;
 
     private static final long serialVersionUID = 1L;
+
+
+    public UmsMember(String username) {
+        this.username = username;
+    }
 
     public Long getId() {
         return id;
