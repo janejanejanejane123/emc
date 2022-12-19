@@ -2,7 +2,7 @@ package com.macro.emc.portal;
 
 //import com.macro.emc.portal.component.SpringBootProducer;
 
-import com.macro.emc.common.utils.ThreadUtil;
+
 import com.macro.emc.mapper.UmsMemberMapper;
 import com.macro.emc.model.UmsMember;
 import com.macro.emc.portal.domain.MemberReadHistory;
@@ -23,7 +23,7 @@ import java.util.concurrent.Executors;
 @SpringBootTest
 public class MysqlApplicationTests {
 
-    private static final Logger Log = LoggerFactory.getLogger(ThreadUtil.class);
+    private static final Logger Log = LoggerFactory.getLogger(MongodbApplicationTests.class);
     @Autowired
     private UmsMemberMapper umsMemberMapper;
 

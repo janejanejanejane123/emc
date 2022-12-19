@@ -1,6 +1,6 @@
 package com.macro.emc.portal;
 
-import com.macro.emc.common.utils.ThreadUtil;
+
 import com.macro.emc.portal.domain.MemberReadHistory;
 import com.macro.emc.portal.repository.MemberReadHistoryRepository;
 import com.mongodb.DuplicateKeyException;
@@ -31,7 +31,7 @@ import org.springframework.data.mongodb.core.query.Update;
 @SpringBootTest
 public class MongodbApplicationTests {
 
-    private static final Logger Log = LoggerFactory.getLogger(ThreadUtil.class);
+    private static final Logger Log = LoggerFactory.getLogger(MongodbApplicationTests.class);
 
     @Autowired
     private MemberReadHistoryRepository memberReadHistoryRepository;
